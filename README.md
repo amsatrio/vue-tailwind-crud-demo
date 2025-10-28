@@ -4,4 +4,5 @@
 ### tailwindcss
 ```sh
 yarn add tailwindcss @tailwindcss/vite
+yarn add vue-router
 ```
