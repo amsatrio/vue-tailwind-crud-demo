@@ -5,4 +5,5 @@
 ```sh
 yarn add tailwindcss @tailwindcss/vite
 yarn add vue-router
+yarn add pinia
 ```
